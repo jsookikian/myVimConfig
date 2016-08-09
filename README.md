@@ -6,21 +6,21 @@ I wrote a script to do this in python, c, and bash.
 
 ##Usage
 #C version
-''' bash
+``` bash
 gcc setupVim.c -o setupVim
-'''
+```
 
 Then run the executable
-'''bash
+```bash
 ./setupVim
-'''
+```
 
 #Python Version
-'''bash
+```bash
 python setupVim.py
-'''
+```
 
 #Bash Version
-'''bash
+```bash
 sh setupVim.sh
-'''
+```
