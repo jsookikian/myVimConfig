@@ -1,5 +1,5 @@
 CONFIG_PATH=$(pwd)/"deepsea.vim"
-VIM="jordan"
+VIM=".vim"
 PLUGIN="plugin"
 echo $CONFIG_PATH
 
